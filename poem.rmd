@@ -16,11 +16,67 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+’Twas brillig, and the slithy toves  
+      Did gyre and gimble in the wabe:  
+All mimsy were the borogoves,  
+      And the mome raths outgrabe.  
+
+“Beware the Jabberwock, my son!  
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+
+I went to turn the grass once after one  
+Who mowed it in the dew before the sun.  
+
+The dew was gone that made his blade so keen  
+Before I came to view the levelled scene.  
+
+I looked for him behind an isle of trees;  
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
+The sun was shining on the sea,  
+      Shining with all his might:  
+He did his very best to make  
+      The billows smooth and bright —  
+And this was odd, because it was  
+      The middle of the night.  
+The moon was shining sulkily,  
+      Because she thought the sun  
+Had got no business to be there  
+      After the day was done —  
+"It's very rude of him," she said,  
+      "To come and spoil the fun."  
+
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+
+Shall I compare thee to a summer’s day?  
+
+Thou art more lovely and more temperate:  
+
+Rough winds do shake the darling buds of May,  
+
+And summer’s lease hath all too short a date;  
+
+Sometime too hot the eye of heaven shines,  
+
+And often is his gold complexion dimm'd;  
+
+And every fair from fair sometime declines,  
+
+By chance or nature’s changing course untrimm'd;  
+
+But thy eternal summer shall not fade,  
+
+Nor lose possession of that fair thou ow’st;  
+
+Nor shall death brag thou wander’st in his shade,  
+
+When in eternal lines to time thou grow’st:  
+
+  So long as men can breathe or eyes can see,  
+
+  So long lives this, and this gives life to thee. 
