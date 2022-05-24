@@ -17,6 +17,10 @@ you, if you change any of this the git program will notice it and compromise you
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> VerseTwo
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
@@ -31,4 +35,7 @@ you, if you change any of this the git program will notice it and compromise you
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> VerseTwo
